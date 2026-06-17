@@ -10,7 +10,7 @@
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e8624359-1cb0-4736-aba5-9669815f6377" />  
   
   
-> An intelligent AI-powered system that classifies companies into 21 industry categories, scores lead quality, and generates actionable sales recommendations.
+> An AI-powered Business Intelligence Agent that classifies companies into 21 industries, scores lead quality (0-100), and generates actionable sales recommendations. Built with FastAPI, Streamlit, and Machine Learning (Random Forest, 89% accuracy). Features single/batch prediction, analytics dashboard, and real-time insights. Perfect for sales, marketing, and business development teams to automate lead qualification.
 
 
 
